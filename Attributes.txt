@@ -1,0 +1,19 @@
+1)Cosine Similarity of the title(news heading) with its description(news body) content
+(higher the cosine similarity higher the relation news topic and description)
+
+
+2)Cosine Similarity of a news or claim with a number of Real news(This is to evaluate the semantic of a news heading with a number of real sourced news)
+
+
+3)Comparison of source of the claimed news with the database of our reputed sources,(our database of reputed news sources contains news in an ascending order, 1st being of high priority,:::if the news source matches the source in a highest order then it is more likely to be REAL, and similarly for fake)
+
+
+4) Grammatical Errors and news structure attributes are being done by Justin
+
+5)URL comparison ?????
+
+6)
+
+
+
+
